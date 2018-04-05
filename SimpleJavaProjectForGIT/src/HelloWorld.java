@@ -6,6 +6,11 @@ public class HelloWorld {
 		System.out.println("Hello");
 		System.out.println("Hello999");
 		System.out.println("Hello2");
+		
+		int abc = 0;
+		
+		String a = "";
+		
 	}
 
 }
